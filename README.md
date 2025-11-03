@@ -2,7 +2,7 @@
 
 An interactive **Streamlit + Scikit‑Learn** web application that allows anyone to upload a dataset, automatically identify whether the problem is **classification** or **regression**, train multiple ML models interactively, visualize the results, and export the trained model, all from a single browser interface.
 
----
+--- 
 
 ## Table of Contents
 1. [Overview](#overview)
